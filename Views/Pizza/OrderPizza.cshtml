@@ -1,0 +1,16 @@
+@model AspNetMVC.Models.User
+
+<h2>Замовити піцу</h2>
+<h3>Скільки одиниць товару ви бажаєте замовити?</h3>
+<form asp-action="OrderPizza" method="post">
+    @for (var i = 0; i < Model.Products.Count; i++)
+    {
+        <div class="form-group">
+            <label asp-for="Products[i].Name">Назва продукту:</label>
+            <input asp-for="Products[i].Name" class="form-control" readonly />
+            <label asp-for="Products[i].Quantity">Кількість:</label>
+            <input asp-for="Products[i].Quantity" class="form-control" />
+        </div>
+    }
+    <button type="submit" class="btn btn-primary">Замовити</button>
+</form>

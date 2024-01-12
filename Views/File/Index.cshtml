@@ -1,0 +1,20 @@
+﻿@model AspNetMVC.Models.FileViewModel
+
+
+<h2>Форма завантаження файлу</h2>
+
+<form asp-controller="File" asp-action="DownloadFile" method="post">
+    <div class="form-group">
+        <label asp-for="FirstName">Ім'я:</label>
+        <input asp-for="FirstName" class="form-control" required />
+    </div>
+    <div class="form-group">
+        <label asp-for="LastName">Прізвище:</label>
+        <input asp-for="LastName" class="form-control" required />
+    </div>
+    <div class="form-group">
+        <label for="fileName">Назва файлу:</label>
+        <input type="text" id="fileName" name="fileName" class="form-control" required />
+    </div>
+    <button type="submit" class="btn btn-primary">Продовжити</button>
+</form>
