@@ -1,0 +1,61 @@
+D:\програмування\AspNetMVC\AspNetMVC\bin\Debug\net6.0\appsettings.Development.json
+D:\програмування\AspNetMVC\AspNetMVC\bin\Debug\net6.0\appsettings.json
+D:\програмування\AspNetMVC\AspNetMVC\bin\Debug\net6.0\AspNetMVC.staticwebassets.runtime.json
+D:\програмування\AspNetMVC\AspNetMVC\bin\Debug\net6.0\AspNetMVC.exe
+D:\програмування\AspNetMVC\AspNetMVC\bin\Debug\net6.0\AspNetMVC.deps.json
+D:\програмування\AspNetMVC\AspNetMVC\bin\Debug\net6.0\AspNetMVC.runtimeconfig.json
+D:\програмування\AspNetMVC\AspNetMVC\bin\Debug\net6.0\AspNetMVC.dll
+D:\програмування\AspNetMVC\AspNetMVC\bin\Debug\net6.0\AspNetMVC.pdb
+D:\програмування\AspNetMVC\AspNetMVC\obj\Debug\net6.0\AspNetMVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\програмування\AspNetMVC\AspNetMVC\obj\Debug\net6.0\AspNetMVC.AssemblyInfoInputs.cache
+D:\програмування\AspNetMVC\AspNetMVC\obj\Debug\net6.0\AspNetMVC.AssemblyInfo.cs
+D:\програмування\AspNetMVC\AspNetMVC\obj\Debug\net6.0\AspNetMVC.csproj.CoreCompileInputs.cache
+D:\програмування\AspNetMVC\AspNetMVC\obj\Debug\net6.0\AspNetMVC.MvcApplicationPartsAssemblyInfo.cache
+D:\програмування\AspNetMVC\AspNetMVC\obj\Debug\net6.0\AspNetMVC.RazorAssemblyInfo.cache
+D:\програмування\AspNetMVC\AspNetMVC\obj\Debug\net6.0\AspNetMVC.RazorAssemblyInfo.cs
+D:\програмування\AspNetMVC\AspNetMVC\obj\Debug\net6.0\staticwebassets\msbuild.AspNetMVC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\програмування\AspNetMVC\AspNetMVC\obj\Debug\net6.0\staticwebassets\msbuild.build.AspNetMVC.props
+D:\програмування\AspNetMVC\AspNetMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AspNetMVC.props
+D:\програмування\AspNetMVC\AspNetMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AspNetMVC.props
+D:\програмування\AspNetMVC\AspNetMVC\obj\Debug\net6.0\staticwebassets.pack.json
+D:\програмування\AspNetMVC\AspNetMVC\obj\Debug\net6.0\staticwebassets.build.json
+D:\програмування\AspNetMVC\AspNetMVC\obj\Debug\net6.0\staticwebassets.development.json
+D:\програмування\AspNetMVC\AspNetMVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\програмування\AspNetMVC\AspNetMVC\obj\Debug\net6.0\scopedcss\bundle\AspNetMVC.styles.css
+D:\програмування\AspNetMVC\AspNetMVC\obj\Debug\net6.0\scopedcss\projectbundle\AspNetMVC.bundle.scp.css
+D:\програмування\AspNetMVC\AspNetMVC\obj\Debug\net6.0\AspNetMVC.dll
+D:\програмування\AspNetMVC\AspNetMVC\obj\Debug\net6.0\refint\AspNetMVC.dll
+D:\програмування\AspNetMVC\AspNetMVC\obj\Debug\net6.0\AspNetMVC.pdb
+D:\програмування\AspNetMVC\AspNetMVC\obj\Debug\net6.0\AspNetMVC.genruntimeconfig.cache
+D:\програмування\AspNetMVC\AspNetMVC\obj\Debug\net6.0\ref\AspNetMVC.dll
+D:\Microsoft Visual Studio\repos\Laba_7_ASP.NET\bin\Debug\net6.0\appsettings.Development.json
+D:\Microsoft Visual Studio\repos\Laba_7_ASP.NET\bin\Debug\net6.0\appsettings.json
+D:\Microsoft Visual Studio\repos\Laba_7_ASP.NET\bin\Debug\net6.0\AspNetMVC.staticwebassets.runtime.json
+D:\Microsoft Visual Studio\repos\Laba_7_ASP.NET\bin\Debug\net6.0\AspNetMVC.exe
+D:\Microsoft Visual Studio\repos\Laba_7_ASP.NET\bin\Debug\net6.0\AspNetMVC.deps.json
+D:\Microsoft Visual Studio\repos\Laba_7_ASP.NET\bin\Debug\net6.0\AspNetMVC.runtimeconfig.json
+D:\Microsoft Visual Studio\repos\Laba_7_ASP.NET\bin\Debug\net6.0\AspNetMVC.dll
+D:\Microsoft Visual Studio\repos\Laba_7_ASP.NET\bin\Debug\net6.0\AspNetMVC.pdb
+D:\Microsoft Visual Studio\repos\Laba_7_ASP.NET\obj\Debug\net6.0\AspNetMVC.csproj.AssemblyReference.cache
+D:\Microsoft Visual Studio\repos\Laba_7_ASP.NET\obj\Debug\net6.0\AspNetMVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microsoft Visual Studio\repos\Laba_7_ASP.NET\obj\Debug\net6.0\AspNetMVC.AssemblyInfoInputs.cache
+D:\Microsoft Visual Studio\repos\Laba_7_ASP.NET\obj\Debug\net6.0\AspNetMVC.AssemblyInfo.cs
+D:\Microsoft Visual Studio\repos\Laba_7_ASP.NET\obj\Debug\net6.0\AspNetMVC.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\repos\Laba_7_ASP.NET\obj\Debug\net6.0\AspNetMVC.MvcApplicationPartsAssemblyInfo.cache
+D:\Microsoft Visual Studio\repos\Laba_7_ASP.NET\obj\Debug\net6.0\AspNetMVC.RazorAssemblyInfo.cache
+D:\Microsoft Visual Studio\repos\Laba_7_ASP.NET\obj\Debug\net6.0\AspNetMVC.RazorAssemblyInfo.cs
+D:\Microsoft Visual Studio\repos\Laba_7_ASP.NET\obj\Debug\net6.0\staticwebassets\msbuild.AspNetMVC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Microsoft Visual Studio\repos\Laba_7_ASP.NET\obj\Debug\net6.0\staticwebassets\msbuild.build.AspNetMVC.props
+D:\Microsoft Visual Studio\repos\Laba_7_ASP.NET\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AspNetMVC.props
+D:\Microsoft Visual Studio\repos\Laba_7_ASP.NET\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AspNetMVC.props
+D:\Microsoft Visual Studio\repos\Laba_7_ASP.NET\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Microsoft Visual Studio\repos\Laba_7_ASP.NET\obj\Debug\net6.0\staticwebassets.build.json
+D:\Microsoft Visual Studio\repos\Laba_7_ASP.NET\obj\Debug\net6.0\staticwebassets.development.json
+D:\Microsoft Visual Studio\repos\Laba_7_ASP.NET\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Microsoft Visual Studio\repos\Laba_7_ASP.NET\obj\Debug\net6.0\scopedcss\bundle\AspNetMVC.styles.css
+D:\Microsoft Visual Studio\repos\Laba_7_ASP.NET\obj\Debug\net6.0\scopedcss\projectbundle\AspNetMVC.bundle.scp.css
+D:\Microsoft Visual Studio\repos\Laba_7_ASP.NET\obj\Debug\net6.0\AspNetMVC.dll
+D:\Microsoft Visual Studio\repos\Laba_7_ASP.NET\obj\Debug\net6.0\refint\AspNetMVC.dll
+D:\Microsoft Visual Studio\repos\Laba_7_ASP.NET\obj\Debug\net6.0\AspNetMVC.pdb
+D:\Microsoft Visual Studio\repos\Laba_7_ASP.NET\obj\Debug\net6.0\AspNetMVC.genruntimeconfig.cache
+D:\Microsoft Visual Studio\repos\Laba_7_ASP.NET\obj\Debug\net6.0\ref\AspNetMVC.dll
